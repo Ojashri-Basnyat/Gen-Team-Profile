@@ -1,0 +1,31 @@
+{
+  "name": "html-team-generator",
+  "version": "1.0.0",
+  "description": "Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node app",
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ojashri-Basnyat/Gen-Team-Profile.git"
+  },
+  "author": "Ojashri Basnyat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ojashri-Basnyat/team-generator/issues"
+  },
+  "homepage": "https://github.com/Ojashri-Basnyat/team-generator",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "loader": "^2.1.1"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
