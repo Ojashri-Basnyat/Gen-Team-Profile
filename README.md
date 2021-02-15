@@ -77,4 +77,4 @@ The development of this application focused on writing tests and ensuring applic
 Original Comps
 Below were the original comps that mocked up what the application might look like.
 
-images/team-page-generator.png
+<img src="images/team-page-generator.png">
