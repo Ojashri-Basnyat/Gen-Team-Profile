@@ -4,7 +4,7 @@ Application Description
 This application is a Node command line application that takes in information about team members & employees of a software engineering team and generates an HTML webpage that displays summaries for each team member.
 Since testing is a key piece in making code maintainable, this application also includes a suites of Jest unit tests. And the development of this project was focused on test-driven development.
 
-The live page can be viewed on GitHub Pages here: 
+The live page can be viewed on GitHub Pages here: https://ojashri-basnyat.github.io/Gen-Team-Profile/docs/index.html
 
 Usage
 User input
