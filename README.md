@@ -72,7 +72,7 @@ school
 getSchool()
 getRole() // Overridden to return 'Intern'
 Test-Driven Development (TDD)
-The development of this application focused on writing tests and ensuring application features passed to ensure code was understandable and maintainable. The methods on the classes were also developed to be as simple and pure as possible so that they are easier to test. The suite of Jest tests for the above classes in the tests/ directory currently pass. Ultimately, these tests serve as fail-safes for future maintenance of the code base.
+The development of this application focused on writing tests and ensuring application features passed to ensure code was understandable and maintainable. The methods on the classes were also developed to be as simple and pure as possible so that they are easier to test. The suite of Jest tests for the above classes in the tests/ directory currently pass. Ultimately, these tests serve as fail-safes for future maintenance of the code base. Entering npm run test will run a script that does testing using the jest package. It will check if the four classes used in this app all function as intended. 
 
 Original Comps
 Below were the original comps that mocked up what the application might look like.
